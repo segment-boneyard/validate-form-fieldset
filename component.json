@@ -1,0 +1,8 @@
+{
+  "name": "validate-form-fieldset",
+  "dependencies": {
+    "component/classes": "*",
+    "ianstormtaylor/parent": "*"
+  },
+  "scripts": ["index.js"]
+}
